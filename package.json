@@ -1,6 +1,6 @@
 {
-  "name": "com.hyperbid.unity",
-  "version": "1.2.3",
+  "name": "com.hyperbid.hyperbid",
+  "version": "1.0.0",
   "displayName": "HBPackage",
   "description": "This is an example package",
   "unity": "2019.1",
@@ -9,9 +9,8 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "tools",
+    "extensions"
   ],
   "author": {
     "name": "Unity",
