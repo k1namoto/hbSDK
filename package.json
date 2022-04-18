@@ -1,5 +1,5 @@
 {
-  "name": "hyperbid",
+  "name": "com.hyperbid.unity",
   "version": "1.2.3",
   "displayName": "HBPackage",
   "description": "This is an example package",
@@ -17,5 +17,6 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  }
+  },
+  "type": "tool"
 }
