@@ -1,0 +1,27 @@
+{
+    "SDKSInfo": {
+        "AdColony": {
+            "Android": {
+                "version": {
+                    "adapter": "4.3.11",
+                    "sdk": "4.7.1"
+                }
+            },
+            "iOS": {
+                "version": {
+                    "adapter": "4.3.13",
+                    "sdk": "4.8.0"
+                }
+            },
+            "Unity": {
+                "DownloadUrl": "http://ssa.public.s3.amazonaws.com/Dependencies-xmls/AdColony/4.3.16.1/ISAdColonyAdapterDependencies.xml",
+                "FileName": "ISAdColonyAdapterDependencies.xml",
+                "UnityAdapterVersion": "4.3.16.1"
+            },
+            "keyname": "AdColony"
+        }
+    },
+    "JSON-version": "2e3cec5a",
+    "LatestMessage": "You've upgraded to ironSource SDK 7.2.1.2.\nTo ensure your integration works correctly, upgrade all your adapters to the latest versions.\nIf you're using custom adapters, you must contact the networks you're working with to ask for a new adapter version that's\ncompatible with this SDK version.\nYou can learn more here: https://developers.is.com/ironsource-mobile/unity/sdk-change-log/",
+    "UpdateMessage": "ironSource SDK 7.2.1.2 is now available to download for Unity. This version requires you to upgrade:\n* The Chartboost adapter to the latest version (4.3.13+)\n* The HyprMX adapter to the latest version (4.1.18+)\n* Your custom adapters to new versions that support ironSource SDK 7.2.0+ for iOS\nYou can learn more here: https://developers.is.com/ironsource-mobile/unity/sdk-change-log/"
+}
